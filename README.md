@@ -2,6 +2,8 @@
 
 *中文版[点这里](#点微)。Chinese version [here](#点微)*
 
+###示例：[点微](http://demo.dotkrnl.com/2014/dotmin/)
+
 DotMin is a minimal, responsive octopress theme for Octopress with [DEMO](http://demo.dotkrnl.com/).
 
 You can change the browser width to experience the responsive UI. ;-)
